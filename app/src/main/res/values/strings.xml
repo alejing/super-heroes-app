@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProyectoSuperHeroes</string>
+    <string name="mi_super_h_">Mi Super Héroes App</string>
+    <string name="boton_iniciar_sesion">Iniciar sesión</string>
+    <string name="boton_crear_cuenta">Crear cuenta</string>
+
+
+    <string name="close_top_toolbar">Salir</string>
+    <string name="is_tv_titulo">Inicio de Sesión</string>
+    <string name="is_et_usuario">Usuario</string>
+    <string name="is_et_contraseña">Contraseña</string>
+
+</resources>
